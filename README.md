@@ -1,4 +1,4 @@
-# TSP & Dijkstra Delivery Planner
+# "MargDarshak"- TSP & Dijkstra Journey Planner
 
 A Java Swing-based application to plan optimal delivery routes using **Dijkstra's algorithm** and **Traveling Salesman Problem (TSP)**. 
 
